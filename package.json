@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "firebase": "^10.4.0",
-    "next": "latest",
+    "next": "^16.1.6",
     "react": "latest",
     "react-dom": "latest",
     "reactjs-alert": "^2.2.0",
